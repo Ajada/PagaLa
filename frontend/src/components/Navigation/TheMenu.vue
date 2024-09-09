@@ -55,7 +55,7 @@ const links = ref([
     icon: "fa-solid fa-house-chimney",
   },
   {
-    title: "Titulo",
+    title: "Cadastros",
     icon: "fa-solid fa-users",
     subMenu: [
       {
